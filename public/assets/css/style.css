@@ -1592,7 +1592,7 @@ body::-webkit-scrollbar-thumb {
 	float: left;
 	margin-top: 40px;
 	margin-bottom: 120px;
-	display: flex !important;
+	/* display: flex !important; */
 	text-align: center;
 	justify-content: space-between;
 }
